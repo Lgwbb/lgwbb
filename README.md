@@ -1,4 +1,4 @@
-### Hi there 👋 Ask me about the cheese, and i'll answer
+### Hi there 👋 Ask me about the cheese, and i'll answer!
 <!--
 **Lgwbb/lgwbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
